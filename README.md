@@ -8,9 +8,9 @@ ganhador da rodada:
     Papel ganha da pedra (embrulhando-a).
 
 No jogo, o usuário fará sua jogada escolhendo um número inteiro, por exemplo:
-1 - Tesoura
-2 - Papel
-3 - Pedra
+1 - Tesoura.
+2 - Papel.
+3 - Pedra.
 
 Já para a jogada do computador, será gerado um valor de forma randômica entre 1 e 3 para a jogada.
 
